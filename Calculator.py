@@ -5,7 +5,7 @@ print("1. ADD")
 print("2. SUBTRACT")
 print("3. DIVIDE")
 print("4. MULTIPLY")
-print("\nKindly choose the operation above and enter it's    corresponding number")
+print("\nKindly choose the operation above and enter it's corresponding number")
 
 operation = input("What is your operation : ")
 num1 = float(input("Enter Number 1 : "))
@@ -22,3 +22,4 @@ elif operation == "4":
 else:
 
     print("Invalid Entry")
+
